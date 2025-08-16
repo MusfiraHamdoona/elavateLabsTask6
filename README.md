@@ -13,9 +13,11 @@ FEATURES:
 - Prevents default form submission to avoid page reload and preserve user feedback
 
 TECHNOLOGY USED:
+
     -HTML
     -CSS
     -JAVASCRIPT
 
+LIVE AT:https://musfirahamdoona.github.io/elavateLabsTask6/
 
 
